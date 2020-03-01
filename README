@@ -4,3 +4,9 @@ BEFORE USE:
 - CREATE AN EMPTY FOLDER ON YOUR USER DESKTOP NAMED 'Occulto'
 - SETUP LINUX VM WITH GUEST ADDITIONS AND USER (non-sudo) ACCESS TO vboxsf 
 - DOWNLOAD 'file_occulto.sh' INTO STARTUP EXECUTABLE LOCATION ON LINUX VM
+
+POWERSHELL COMMAND FORMATE 
+
+> ./mvp.ps1 'file path'
+
+* 'file path' refers to the suspicious file
